@@ -3,6 +3,9 @@ The settings and configurations that I use to make the Firefox browser as good a
 Mozilla adds a lot of fluff to their browser that isn't needed.
 They also sometimes make decisions that aren't really the best for their users.
 
+There are many reasons to use Firefox: it's customizability, it being one of the only competitors to Chromium, or its supposed superior privacy.
+Whatever the case, Firefox is a good browser that can be made the best with some modifications.
+
 Firstly, you will download Firefox. We will now choose a search engine. I personally recommend Startpage or Brave Search. 
 Each of these search engines have unique instructions on how to enable them by default in your browser.
 For Brave, these instructions can be found at: https://search.brave.com/default
@@ -25,11 +28,8 @@ these instructions:
 3. Click the "Open Directory" button under the "Root Directory" row.
 4. Drag the user.js file into your profile's folder (the one ending in ".default").
 
-Once you have done this, you are almost done. Now we will add uBlock Origin (https://ublockorigin.com/) to block ads and trackers, as well as the official Mozilla Firefox Multi-Account Containers extension to have different tabs with different sets of cookies.
-Go to these websites and click the "Add to Firefox" button.
-
-- uBlock Origin: https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/
-- Firefox Multi-Account Containers: https://addons.mozilla.org/en-US/firefox/addon/multi-account-containers/
+Once you have done this, you are almost done. Now we will add uBlock Origin (https://ublockorigin.com/) to block ads and trackers.
+Go to the uBlock Origin website, click "Get uBlock Origin" and then click the "Add to Firefox" button.
 
 Now you can customize the browser however you want, as UI is subjective. You can right-click the toolbar and click the "Customize Toolbar" button to customize it.
 That's it for my Firefox settings! Security and privacy can always be better, but it's also important to weigh the difficulty and convenience.
